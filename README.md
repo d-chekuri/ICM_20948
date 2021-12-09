@@ -1,6 +1,5 @@
-# ICM_20948 Driver
-Driver for ICM20948
-
+# Driver for ICM20948
+#Summary
 This project aims to develop a driver for ICM20948. The ICM-20948 is the world's lowest-power 9-axis motion-tracking device, making it excellent for Smartphones, Tablets, Wearable Sensors, and Internet-of-Things (IoT) applications. Auxiliary I2 C interface to external sensors, on-chip 16-bit ADCs, programmable digital filters, an inbuilt temperature sensor, and programmable interrupts are all features of the ICM-20948. I2C protocol is used to communicate between ICM20948 and the master device.  
 
 We have developed a driver for reading 3-axis accelerometer and 3-axis gyroscope data in this project. Raspberry pi has been taken as the master device. 
